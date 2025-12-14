@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Balamurugan&fontSize=40&fontColor=ffffff&width=160&textAlign=center)
+
 # Hi 👋 I'm Balamurugan
 
 🎓 **B.Tech Computer Science and Engineering (4th Year)**
@@ -87,5 +89,6 @@ A comprehensive **device security and monitoring tool** built using Python.
 
 ---
 
-👨🏾‍💻 *Always learning, always securing.*
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=%0A👨🏾‍💻%20Always%20learning,%20always%20securing&fontSize=30&fontColor=ffffff&width=1500&textAlign=center)
 
