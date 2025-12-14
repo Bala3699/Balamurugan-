@@ -1,4 +1,14 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Balamurugan&fontSize=40&fontColor=ffffff&width=160&textAlign=center)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=Balamurugan&fontSize=40&fontColor=ffffff&width=160&textAlign=center" />
+</p>
+<h2 align="center">Ethical Hacker | Cybersecurity Enthusiast | Python Developer</h2>
+<p align="center">
+  Breaking systems to secure them
+</p>
+
+<hr/>
+
 
 # Hi 👋 I'm Balamurugan
 
@@ -90,5 +100,7 @@ A comprehensive **device security and monitoring tool** built using Python.
 ---
 
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=%0A👨🏾‍💻%20Always%20learning,%20always%20securing&fontSize=30&fontColor=ffffff&width=1500&textAlign=center)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=%0A👨🏾‍💻%20Always%20learning,%20always%20securing&fontSize=30&fontColor=ffffff&width=160&textAlign=center" />
+</p>
 
