@@ -98,6 +98,9 @@ A comprehensive **device security and monitoring tool** built using Python.
 * LinkedIn: *www.linkedin.com/in/balamurugan37*
 
 ---
+## 🏅 TryHackMe Badge
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-darkred?logo=tryhackme)](https://tryhackme.com/bala369936/badges/web-fund?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy)
 
 
 <p align="center">
