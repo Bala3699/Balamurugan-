@@ -102,6 +102,8 @@ A comprehensive **device security and monitoring tool** built using Python.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-darkred?logo=tryhackme)](https://tryhackme.com/bala369936/badges/web-fund?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy)
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Web%20Works-darkred?logo=tryhackme)](https://tryhackme.com/bala369936/badges/world-wide-web)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=160&section=header&text=%0A👨🏾‍💻%20Always%20learning,%20always%20securing&fontSize=30&fontColor=ffffff&width=160&textAlign=center" />
